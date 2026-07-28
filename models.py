@@ -86,4 +86,4 @@ class ClipboardModels:
             ids.append(rec_id)
         logger.info("bulk_insert clips: %d rows", len(ids))
         return ids
-# Last sync: 2026-07-28 19:48:47 UTC
+# Last sync: 2026-07-28 20:21:40 UTC
